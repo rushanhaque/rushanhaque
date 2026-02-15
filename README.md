@@ -1,6 +1,5 @@
 # 💫 About Me:
-Tech-driven individual with a strong focus towards problem solving and critical thinking, I enjoy transforming ideas into practical solutions and consistently seek out new perspectives and innovative approaches.<br>I learn, design, and develop out of genuine passion for the craft.
-
+Software engineering student focused on continuous learning, technical growth, and turning ideas into working products.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rushan.haq) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rushanhaque) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rushanhaque) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rushanulhaque@gmail.com) 
